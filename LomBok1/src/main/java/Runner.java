@@ -10,6 +10,7 @@ public class Runner {
 		System.out.println(name);
 		Student s1 = new Student("test", true);
 		System.out.println(s1);
+		testeeeeee
 		
 	}
 }
